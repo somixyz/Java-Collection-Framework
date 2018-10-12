@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ListConcept;
+package collectionConcept;
 
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -59,7 +59,7 @@ public class LinkedLIstConcept {
         }
         
         //while loop
-        System.err.println("*******suing while loop");
+        System.err.println("*******usuing while loop");
         int num = 0;
         while (ll.size()>num) {            
             System.out.println(ll.get(num));
