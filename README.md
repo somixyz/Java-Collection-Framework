@@ -1,6 +1,7 @@
 # Java-Collection-Framework -Tutorial-
 
--->This is tutorial about Java Collecton API<-- @educalPurpose
+-->This is tutorial about Java Collecton API<-- 
+    * This project is designed for the purpose of learning and practicing JCP API
 
     public interface Collection<E>
     extends Iterable<E>
