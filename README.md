@@ -1,7 +1,9 @@
 # Java-Collection-Framework -Tutorial-
 
 -->This is tutorial about Java Collecton API<-- 
-    * This project is designed for the purpose of learning and practicing JCP API
+    
+   * This project is designed for the purpose of learning and practicing JCF API
+
 
     public interface Collection<E>
     extends Iterable<E>
