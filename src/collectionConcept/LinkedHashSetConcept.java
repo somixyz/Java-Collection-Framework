@@ -9,9 +9,9 @@ import java.util.LinkedHashSet;
  * @author Milos Dragovic
  */
 public class LinkedHashSetConcept {
-    
+    //Unique elements, Maintain insertion order
     //Order elements in the way we insert them
-    //There is no index like we have in List like ArrayList or LinkedList
+    //There is no index like we have in List implementation like ArrayList or LinkedList
     
     
     public static void main(String[] args) {

@@ -4,13 +4,12 @@
  * and open the template in the editor.
  */
 
-package collectionConcept;
+package collectionConcept.sorting;
 
 import collectionConcept.userDomain.Employee;
 import java.util.ArrayList; 
 import java.util.Collections;
-import java.util.Iterator;
-import java.util.Random;
+import java.util.Iterator; 
 
 /**
  *

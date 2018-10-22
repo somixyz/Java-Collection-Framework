@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package collectionConcept;
+package collectionConcept.sorting;
 
 import collectionConcept.userDomain.Employee;
 import java.util.Comparator;
@@ -15,7 +15,7 @@ import java.util.Comparator;
 public class CustomComparator implements Comparator<Employee> {
 
     
-    //here we delcare our criteria for comparation Employee object for sorting array
+    //here we delcare our own criteria for sorting Employee object in array
     @Override
     public int compare(Employee o1, Employee o2) {
         if (o1.age > o2.age) {
