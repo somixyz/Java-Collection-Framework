@@ -1,11 +1,8 @@
-package collectionConcept;
+package collectionConcept.set;
 
-import collectionConcept.userDomain.Employee;
-import java.util.Collections;
-import java.util.HashMap;
+import collectionConcept.userDomain.Employee; 
 import java.util.HashSet;
-import java.util.Iterator;
-import java.util.TreeSet;
+import java.util.Iterator; 
 
 /**
  *

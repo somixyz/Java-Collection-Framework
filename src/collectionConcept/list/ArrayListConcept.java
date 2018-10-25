@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package collectionConcept;
+package collectionConcept.list;
 
 import collectionConcept.userDomain.Employee;
 import java.util.ArrayList; 

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package collectionConcept;
+package collectionConcept.set;
 
 import collectionConcept.sorting.CustomComparator;
 import collectionConcept.userDomain.Employee;

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package collectionConcept;
+package collectionConcept.map;
 
 import java.util.Enumeration;
 import java.util.Hashtable;

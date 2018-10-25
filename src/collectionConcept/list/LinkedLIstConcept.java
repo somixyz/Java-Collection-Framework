@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package collectionConcept;
+package collectionConcept.list;
 
 import java.util.Iterator;
 import java.util.LinkedList;
